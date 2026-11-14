@@ -1,4 +1,4 @@
-# IFCheck - In Focus Check - Monitor de Foco e Desempenho Cognitivo
+8# IFCheck - In Focus Check - Monitor de Foco e Desempenho Cognitivo
 
 O **IFCheck** é uma aplicação nativa Android desenvolvida em **Java** no âmbito da unidade curricular de **Programação de Dispositivos Móveis** da **Universidade da Beira Interior** pela aluna **Vitória Agnes Moraes de Sá nº 54111**. 
 
@@ -103,4 +103,4 @@ O **IFCheck** foi desenvolvido estritamente no âmbito de um projeto académico 
 
 Desenvolvido para fins académicos no âmbito da unidade curricular de **Programação de Dispositivos Móveis** da **Universidade da Beira Interior**.
 
-Entre em contacto para avaliar a aplicação em: vitoriagnestrigo@gmail.com!
+Entre em contacto para avaliar a aplicação através do e-mail: vitoriagnestrigo@gmail.com!
