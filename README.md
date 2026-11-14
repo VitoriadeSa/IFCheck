@@ -102,3 +102,5 @@ O **IFCheck** foi desenvolvido estritamente no âmbito de um projeto académico 
 ---
 
 Desenvolvido para fins académicos no âmbito da unidade curricular de **Programação de Dispositivos Móveis** da **Universidade da Beira Interior**.
+
+Entre em contacto para avaliar a aplicação em: vitoriagnestrigo@gmail.com!
